@@ -17,7 +17,7 @@ markdown_table = """
 | `Overstaffing_Indicator`         | A measure indicating whether there was more staff than needed, identifying potential staffing inefficiencies. |
 | `Understaffing_Indicator`        | Indicates situations where there were fewer staff than needed, affecting service levels and workload. |
 | `Service_Level_Compliance_Percent` | Measures the compliance with service level targets like response time goals. High percentages indicate good performance. |
-"""
+
 ## Contents
 - `Real-Time Analyst Project.ipynb`: Main Jupyter notebook with all analyses and models.
 - `requirements.txt`: Required Python packages for running the notebook.

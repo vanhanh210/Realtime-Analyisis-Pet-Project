@@ -1,7 +1,7 @@
 ## Overview
 This repository contains the analysis and code for the Real-Time Analyst Project, focusing on workload analysis and predictive modeling in an operational context. The project aims to provide insights into workload patterns, forecast future work volume, and classify operational days for efficient resource management.
 
-# Here's an explanation of each metric:
+## Here's an explanation of each metric:
 - Date_Time: Timestamp indicating when the data was recorded. It's often used to track and analyze trends over time.
 - Work_Volume: Represents the quantity of work handled in a given period. This could be the number of calls, tasks, or transactions.
 - Schedule_Adherence_Percent: A measure of how closely employees adhere to their scheduled work times. High adherence means employees are working their scheduled hours.

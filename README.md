@@ -2,7 +2,6 @@
 This repository contains the analysis and code for the Real-Time Analyst Project, focusing on workload analysis and predictive modeling in an operational context. The project aims to provide insights into workload patterns, forecast future work volume, and classify operational days for efficient resource management.
 
 ## Here's an explanation of each metric:
-markdown_table = """
 | Metric                           | Description |
 |----------------------------------|-------------|
 | `Date_Time`                      | Timestamp indicating when the data was recorded, used to track and analyze trends over time. |
